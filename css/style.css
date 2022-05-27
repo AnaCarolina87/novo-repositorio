@@ -1,0 +1,16 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+body{
+    background-color:rgb(215, 172, 118) ;
+}
+
+main{
+    background-color: azure;
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 6px black;
+}
